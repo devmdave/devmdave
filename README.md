@@ -7,8 +7,26 @@
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
+Hey there! I'm **Madhav Dave**, an engineering student from India, currently pursuing a B.Tech in Electronics and Communication. I thrive at the intersection of technology and creativity—whether it's building clean, responsive web interfaces or crafting signature-style logos that tell a story.Along With I'm currently Learning Machine Learning and Cloud Computing and tools such as AWS.
 
-<p align="left">I'm Madhav Dave from India<br><br>- 🔭 I’m currently pursuing B.tech in ECE.<br>- 📚Along With I'm currently Learning Machine Learning and Cloud Computing and tools such as AWS.</p>
+💡 I specialize in:
+- Full-stack web development using **Next.js**, **React.js**, and **Tailwind CSS**
+- Creative branding through **monoline logo design** and **handwritten typography**
+- Automating workflows using **Python**, including **chatbot UI design** and **industrial integration via PLC programming**
+- Efficient deployment pipelines with **Git**, **CI/CD**, and PDF handling in modern portfolios
+
+🔍 Recent explorations:
+- Building dynamic components with **server-side props** and **POST requests** in Next.js
+- Designing scroll-to-top buttons and custom navbars for enhanced user experience
+- Exploring typewriter-style fonts and minimalist layouts to elevate aesthetic appeal
+
+🤵🏻‍♂️ I’m passionate about turning structured data and creative ideas into seamless digital experiences. If you're into purposeful design, clean code, or curious automation, we’re on the same wavelength!
+
+📫 Let’s connect:
+- **Portfolio**: [devmdave.github.io/my-portfolio](https://devmdave.github.io/my-portfolio)
+- **Email**: [davemadhav2007@gmail.com](mailto:davemadhav2007@gmail.com)
+
+
 
 ###
 
