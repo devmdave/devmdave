@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-I’m currently pursuing my **B.Tech in Electronics and Communication**, but my passion lies in building elegant digital experiences. Whether it's crafting clean, responsive user interfaces or designing signature-style logos with handwritten typography—I live where creativity meets code.
+I’m currently pursuing my **B.Tech in Electronics and Communication**, but my passion lies in building elegant digital experiences and automation. Whether it's crafting clean, responsive user websites or automating tasks with python by integersting arduino and PLCs.I live where creativity and intelligence meets code.
 
 🧠 I’m also diving deep into **Machine Learning** and **Cloud Computing (AWS)** to expand my engineering toolkit.
 
