@@ -45,9 +45,9 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=devmdave&theme=github-dark&hide_border=true)
 
-![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmdave&show_icons=true&theme=dracula)
+![Madhav's GITHUB stats](https://github-readme-stats.vercel.app/api?username=devmdave&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmdave&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmdave&layout=compact&theme=github_dark&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devmdave&theme=github-dark&hide_border=true&area=true)
 
