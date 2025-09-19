@@ -39,18 +39,15 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
 📂 **Portfolio**: [devmdave.github.io/my-portfolio](https://devmdave.github.io/my-portfolio)  
 📧 **Email**: [davemadhav2007@gmail.com](mailto:davemadhav2007@gmail.com)  
 
-
 ---
 
 ## 📊 GitHub Stats
-
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=devmdave&theme=github-dark&hide_border=true)
 
 ![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmdave&show_icons=true&theme=dracula)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmdave&layout=compact&theme=dracula)
-
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devmdave&theme=github-dark&hide_border=true&area=true)
 
