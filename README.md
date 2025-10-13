@@ -36,8 +36,7 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
 
 ## 🔗 Portfolio & Contact
 
-📂 **Portfolio**: [devmdave.github.io/my-portfolio](https://devmdave.github.io/my-portfolio)
- 
+📂 **Portfolio**: 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://devmdave.github.io/my-portfolio) 
 📧 **Email**: [davemadhav2007@gmail.com](mailto:davemadhav2007@gmail.com)  
 
