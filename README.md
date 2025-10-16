@@ -15,6 +15,13 @@
   <img src="https://img.shields.io/badge/⚙️%20Engineer-Automation%20%26%20Vision-critical?style=for-the-badge" />
 </p>
 
+## 🌟 About Me
+
+I’m currently pursuing my **B.Tech in Electronics and Communication**, but my passion lies in building elegant digital experiences and automation. Whether it's crafting clean, responsive user websites or automating tasks with python by integerating Arduino, PLCs and Microcontrollers.
+
+🧠 Currently learning **Machine Learning** and **Cloud Computing (AWS)** to expand my engineering toolkit.
+
+---
 
 ## 🛠️ Tech Stack
 
