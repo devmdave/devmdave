@@ -129,7 +129,7 @@
   <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1yeGc2cm02b3F4eXJ0MGhicHBhd2FsN212MGR5OWl6bThmZ3Y0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nVJN4PlV00ojrfkovH/giphy.gif" alt="Magical Intro GIF" width="200" height="200" />
 
 
-## 🌍 Connect With Me
+### 🌍 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/madhav-dave-52b552379/" target="_blank">
@@ -163,8 +163,8 @@
 <div >
 </div>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9lc2Nxb3prZHRxcnJpcWp4MjU5cWtxN3k3Z2RxMHBuYmt6ZGVtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" alt="Magical Intro GIF" width="200"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9lc2Nxb3prZHRxcnJpcWp4MjU5cWtxN3k3Z2RxMHBuYmt6ZGVtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" alt="Magical Intro GIF" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9lc2Nxb3prZHRxcnJpcWp4MjU5cWtxN3k3Z2RxMHBuYmt6ZGVtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" alt="Magical Intro GIF" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9lc2Nxb3prZHRxcnJpcWp4MjU5cWtxN3k3Z2RxMHBuYmt6ZGVtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" alt="Magical Intro GIF" width="100"/>
 </p>
 
 
