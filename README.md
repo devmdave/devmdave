@@ -125,10 +125,8 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devmdave&theme=github-dark&hide_border=true&area=true)
 
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1yeGc2cm02b3F4eXJ0MGhicHBhd2FsN212MGR5OWl6bThmZ3Y0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nVJN4PlV00ojrfkovH/giphy.gif" alt="Magical Intro GIF" width="200" height="200" />
-
-
 ---
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1yeGc2cm02b3F4eXJ0MGhicHBhd2FsN212MGR5OWl6bThmZ3Y0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nVJN4PlV00ojrfkovH/giphy.gif" alt="Magical Intro GIF" width="200" height="200" />
 
 
 ## 🌍 Connect With Me
