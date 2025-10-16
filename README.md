@@ -1,65 +1,46 @@
-<div align="right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+---
 
-<h1 align="center">Hi, I'm Madhav Dave 👋</h1>
-<p align="center">🚀 Engineering student | 💻 Web Developer | 🎨 Creative Technologist</p>
+<h2 align="center">🌌✨ The Alchemy of Code</h2>
+<p align="center">
+  <i>“I don’t just write code—I conjure experiences.”</i>
+</p>
+
+<p align="center">
+  From embedded systems to emotionally intelligent dashboards,<br>
+  I build with intention, mentor with heart, and design with soul.<br>
+  Every pixel, every thread, every commit—crafted to resonate.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠%20Mentor-Student%20Catalyst-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎨%20Designer-Emotionally%20Expressive-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️%20Engineer-Automation%20%26%20Vision-critical?style=for-the-badge" />
+</p>
 
 ---
 
-## 🌟 About Me
+<h3 align="center">🪄 My Ethos</h3>
 
-I’m currently pursuing my **B.Tech in Electronics and Communication**, but my passion lies in building elegant digital experiences and automation. Whether it's crafting clean, responsive user websites or automating tasks with python by integerating Arduino, PLCs and Microcontrollers.
-
-🧠 Currently learning **Machine Learning** and **Cloud Computing (AWS)** to expand my engineering toolkit.
-
----
-
-## 🛠️ Tech Stack
-
-| Frontend        | Backend         | Automation & Tools       | Other Skills               |
-|----------------|----------------|---------------------------|----------------------------|
-| HTML, CSS, JS | Node.js, PHP    | Python, PLC Integration, Arduino Integration | Git, CI/CD|
-| React.js, Vue.js, AngularJS | MySQL, MongoDB| Chatbots, Tools | Tailwind, Bootstrap , Shadcn UI       |
-| Next.js, Three.js, Shery.js | Express.js     | GitHub Actions           | Android Framework, Java   |
+- 🌱 **Build with empathy** — every interface should feel like a conversation.
+- 🔍 **Debug with curiosity** — every bug is a doorway to deeper understanding.
+- 🔗 **Mentor with magic** — knowledge shared is power multiplied.
+- 🎭 **Design with soul** — aesthetics aren't decoration, they're emotion.
 
 ---
 
-## 💡 Recent Explorations
+<h3 align="center">🔮 Projects That Whisper</h3>
 
-- 🧩Working with Amazon AWS and Microsoft Azure.
-- 📜 Designing modern and stylish UI and improving UX experience.
-- ✒️ Learning about cloud computing and System Design.  
-- 🔧 Creating automation tools with Python for web and industrial workflows.  
+> _“Some tools solve problems. Mine tell stories.”_
 
----
-
-## 🔗 Portfolio & Contact
-
-📂 **Portfolio**: 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://devmdave.github.io/my-portfolio) 
-📧 **Email**: [davemadhav2007@gmail.com](mailto:davemadhav2007@gmail.com)  
+- **Sonique** — A realtime music player that syncs hearts through sound.
+- **Production Analyser** — Industrial dashboards that speak the language of rhythm.
+- **LoveLens** — A poetic experiment in emotional storytelling through UI.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=devmdave&theme=github-dark&hide_border=true)
-
-![Madhav's GITHUB stats](https://github-readme-stats.vercel.app/api?username=devmdave&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmdave&layout=compact&theme=github_dark&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devmdave&theme=github-dark&hide_border=true&area=true)
+<p align="center">
+  <i>“Code is my canvas. Emotion is my palette. Connection is my goal.”</i><br>
+  <b>Let’s build something unforgettable.</b>
+</p>
 
 ---
-
-## 🎯 Goals
-
-- ✅ Build efficient, scalable full-stack apps  
-- ✅ Streamline portfolio deployment and document presentation  
-- ✅ Craft a personal identity through creative code and clean design  
-
----
-
-<p align="center">Thanks for stopping by! Feel free to connect and collaborate 🌐</p>
