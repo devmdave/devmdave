@@ -2,13 +2,8 @@
 
 <h2 align="center">🌌✨ The Alchemy of Code</h2>
 <p align="center">
-  <i>“I don’t just write code—I conjure experiences.”</i>
-</p>
-
-<p align="center">
-  From embedded systems to emotionally intelligent dashboards,<br>
-  I build with intention, mentor with heart, and design with soul.<br>
-  Every pixel, every thread, every commit—crafted to resonate.
+  <i>“I don’t just write code—I conjure experiences.”</i><br>
+  <b>Embedded Systems • Machine Learning • Emotional Interfaces</b>
 </p>
 
 <p align="center">
@@ -19,16 +14,50 @@
 
 ---
 
-<h3 align="center">🪄 My Ethos</h3>
+## 🧪 Tech Stack
 
-- 🌱 **Build with empathy** — every interface should feel like a conversation.
-- 🔍 **Debug with curiosity** — every bug is a doorway to deeper understanding.
-- 🔗 **Mentor with magic** — knowledge shared is power multiplied.
-- 🎭 **Design with soul** — aesthetics aren't decoration, they're emotion.
+```yaml
+Languages:
+  - Python 🐍
+  - C/C++ ⚙️
+  - JavaScript 🌐
+  - HTML/CSS 🎨
+
+Frameworks & Tools:
+  - PyQt5 🖼️
+  - NumPy & Pandas 📊
+  - OpenCV 👁️
+  - Socket.IO 🔄
+  - Next.js 🚀
+  - GitHub Actions 🛠️
+  - Figma & Canva ✒️
+```
 
 ---
 
-<h3 align="center">🔮 Projects That Whisper</h3>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devmdave&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmdave&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmdave&theme=dracula" alt="Profile Summary" />
+</p>
+
+---
+
+## 📊 Total Lines of Code Written
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devmdave&label=Lines%20of%20Code%20Since%20Hello%20World&color=blueviolet&style=flat-square" />
+</p>
+
+> _“From my first `print("Hello World")` to thousands of commits later—every line is a step toward magic.”_
+
+---
+
+## 🪄 Projects That Whisper
 
 > _“Some tools solve problems. Mine tell stories.”_
 
