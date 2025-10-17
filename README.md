@@ -9,11 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00FFF5&center=true&vCenter=true&width=900&lines=Hey+There+👋;I'm+%3CYour+Name%2F%3E+⚡;Hardware+%26+Software+Fusion+Engineer;VLSI+%7C+Embedded+Systems+%7C+AI+on+Chip;Welcome+to+My+Digital+Universe+🚀" alt="Neon Typing Header" />
 </p>
 
-<!-- 💥 Optional: Add Glowing GIF Behind It -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/44/51/44/4451446e7a4410cfb76d0d77e8a8ad1a.gif" width="800" />
-</p>
-
 
 
 <h2 align="center">🌌✨ The Alchemy of Code</h2>
