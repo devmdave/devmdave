@@ -3,7 +3,7 @@
 </p>
 
 
-<<!-- ⚡ Fixed: Neon Animated Header for GitHub (Fully Supported) -->
+<!-- ⚡ Fixed: Neon Animated Header for GitHub (Fully Supported) -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00FFF5&center=true&vCenter=true&width=900&lines=Hey+There+👋;I'm+%3CYour+Name%2F%3E+⚡;Hardware+%26+Software+Fusion+Engineer;VLSI+%7C+Embedded+Systems+%7C+AI+on+Chip;Welcome+to+My+Digital+Universe+🚀" alt="Neon Typing Header" />
