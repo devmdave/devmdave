@@ -139,6 +139,11 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
 
 ## ⚡ GitHub Power Stats
 
+<!-- ⚡ 24/7 GitHub Streak Stats (Tokyonight Theme) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devmdave&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="devmdave's Streak Stats" width="60%" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmdave&theme=tokyonight" width="90%"/>
 </p>
