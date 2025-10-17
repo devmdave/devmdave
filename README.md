@@ -6,7 +6,7 @@
 <!-- ⚡ Fixed: Neon Animated Header for GitHub (Fully Supported) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00FFF5&center=true&vCenter=true&width=900&lines=Hey+There+👋;I'm+%3CYour+Name%2F%3E+⚡;Hardware+%26+Software+Fusion+Engineer;VLSI+%7C+Embedded+Systems+%7C+AI+on+Chip;Welcome+to+My+Digital+Universe+🚀" alt="Neon Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00FFF5&center=true&vCenter=true&width=900&lines=Hey+There+👋;I'm+%3CMadhav+Dave%2F%3E+⚡;Hardware+%26+Software+Fusion+Engineer;ML+%7C+Embedded+Systems+%7C+AI+on+Chip;Welcome+to+My+Digital+Universe" alt="Neon Typing Header" />
 </p>
 
 
@@ -168,12 +168,11 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
 
 ## 🎯 Live Contribution Heatmap
 <p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/devmdave?chart=3dbar&animation=wave&format=svg&weeks=30&theme=dark_dimmed&dark=true&gap=0.8&radius=6" width="90%" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/devmdave?chart=3dbar&animation=wave&format=svg&weeks=30&theme=tokyonight&dark=true&gap=0.8&radius=6" width="90%" />
 </p>
 
 ---
 
-## 🔮 Random Developer Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%">
 </p>
