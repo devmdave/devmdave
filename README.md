@@ -10,8 +10,6 @@
 
 
 
-
-
 <h2 align="center">🌌✨ The Alchemy of Code</h2>
 <p align="center">
   <i>“I don’t just write code—I conjure experiences.”</i><br>
