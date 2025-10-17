@@ -140,6 +140,48 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devmdave&theme=github-dark&hide_border=true&area=true)
 
+
+## ⚡ GitHub Power Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmdave&theme=tokyonight" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devmdave&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF007F&icon_color=00FFF5" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devmdave&theme=radical&hide_border=true&background=000000" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmdave&theme=react-dark&hide_border=true&bg_color=0D1117&line=00FFF5&color=00FFF5" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devmdave&theme=onestar&margin-w=10&row=2&column=4" width="80%"/>
+</p>
+
+---
+
+## 💫 Skill Progress Tracker
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdave&layout=donut-vertical&theme=radical&bg_color=000000&hide_border=true" width="45%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=devmdave&limit=5&theme=dark&combine_all_yearly_contributions=true" width="45%"/>
+</p>
+
+---
+
+## 🎯 Live Contribution Heatmap
+<p align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/devmdave?chart=3dbar&animation=wave&format=svg&weeks=30&theme=dark_dimmed&dark=true&gap=0.8&radius=6" width="90%" />
+</p>
+
+---
+
+## 🔮 Random Developer Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%">
+</p>
+
 ---
   <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1yeGc2cm02b3F4eXJ0MGhicHBhd2FsN212MGR5OWl6bThmZ3Y0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nVJN4PlV00ojrfkovH/giphy.gif" alt="Magical Intro GIF" width="200" height="200" />
 
