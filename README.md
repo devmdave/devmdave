@@ -134,7 +134,7 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
 
 <!-- ⚡ 24/7 GitHub Streak Stats (Tokyonight Theme) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devmdave&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="devmdave's Streak Stats" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devmdave&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="devmdave's Streak Stats" width="90%" />
 </p>
 
 ![Madhav's GITHUB stats](https://github-readme-stats.vercel.app/api?username=devmdave&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
@@ -157,7 +157,7 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
 
 <!-- 💻 Most Used Languages (Tokyonight Theme) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdave&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&card_width=400" alt="Top Languages by devmdave" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdave&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&card_width=400" alt="Top Languages by devmdave" width="90%" />
 </p>
 
 <p align="center">
