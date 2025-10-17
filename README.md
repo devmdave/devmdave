@@ -158,11 +158,7 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
 
 ---
 
-## 💫 Skill Progress Tracker
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdave&layout=donut-vertical&theme=radical&bg_color=000000&hide_border=true" width="80%"/>
-  
-</p>
+## ⚡ Skill Progress Tracker
 
 <p align="center">
 
