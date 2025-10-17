@@ -3,6 +3,15 @@
 </p>
 
 
+<!-- 🪐 Neon Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&duration=2500&pause=800&color=00FFF5&center=true&vCenter=true&width=900&lines=Hey+There+👋;I'm+%3CYour+Name%2F%3E+⚡;Hardware+%26+Software+Fusion+Engineer+💡;VLSI+Designer+%7C+Embedded+Coder+%7C+Tech+Visionary;Welcome+to+My+Digital+Realm+🚀" alt="Typing SVG" />
+</p>
+
+
+
+
+
 <h2 align="center">🌌✨ The Alchemy of Code</h2>
 <p align="center">
   <i>“I don’t just write code—I conjure experiences.”</i><br>
