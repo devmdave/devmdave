@@ -144,11 +144,6 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devmdave&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF007F&icon_color=00FFF5" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devmdave&theme=radical&hide_border=true&background=000000" width="45%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmdave&theme=react-dark&hide_border=true&bg_color=0D1117&line=00FFF5&color=00FFF5" width="95%"/>
 </p>
 
@@ -160,10 +155,15 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
 
 ## 💫 Skill Progress Tracker
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdave&layout=donut-vertical&theme=radical&bg_color=000000&hide_border=true" width="45%"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=devmdave&limit=5&theme=dark&combine_all_yearly_contributions=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdave&layout=donut-vertical&theme=radical&bg_color=000000&hide_border=true" width="80%"/>
+  
 </p>
 
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=devmdave&limit=5&theme=dark&combine_all_yearly_contributions=true" width="80%"/>
+
+</p>
 ---
 
 ## 🎯 Live Contribution Heatmap
