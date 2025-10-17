@@ -130,19 +130,14 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
 - **LoveLens** — A poetic experiment in emotional storytelling through UI.
 
 ---
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=devmdave&theme=tokyonight&hide_border=true)
-
-![Madhav's GITHUB stats](https://github-readme-stats.vercel.app/api?username=devmdave&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-
-## ⚡ GitHub Power Stats
+## 📊 My GitHub Stats
 
 <!-- ⚡ 24/7 GitHub Streak Stats (Tokyonight Theme) -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=devmdave&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="devmdave's Streak Stats" width="60%" />
 </p>
+
+![Madhav's GITHUB stats](https://github-readme-stats.vercel.app/api?username=devmdave&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmdave&theme=tokyonight" width="90%"/>
@@ -159,6 +154,11 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
 ---
 
 ## ⚡ Skill Progress Tracker
+
+<!-- 💻 Most Used Languages (Tokyonight Theme) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdave&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&card_width=400" alt="Top Languages by devmdave" width="55%" />
+</p>
 
 <p align="center">
 
