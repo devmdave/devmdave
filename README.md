@@ -11,7 +11,7 @@
 
 
 
-<h2 align="center">🌌✨ The Alchemy of Code</h2>
+<h2 align="center">✨ The Alchemy of Code</h2>
 <p align="center">
   <i>“I don’t just write code—I conjure experiences.”</i><br>
   <b>Embedded Systems • ML and ComputerVision • Web Developer</b>
@@ -161,11 +161,9 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
 </p>
 
 <p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=devmdave&limit=5&theme=dark&combine_all_yearly_contributions=true" width="80%"/>
-
+<img src="https://github-contributor-stats.vercel.app/api?username=devmdave&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="80%"/>
 </p>
----
+
 
 ## 🎯 Live Contribution Heatmap
 <p align="center">
@@ -204,10 +202,7 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
 
 </p>
 
-
 ---
-
-
 <p align="center">
   <i>“Every function I write is a constellation. Every bug I fix, a star realigned.”</i><br>
   <b>I build galaxies of logic, stitched together by empathy and precision.</b>
@@ -219,6 +214,3 @@ I’m currently pursuing my **B.Tech in Electronics and Communication**, but my 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9lc2Nxb3prZHRxcnJpcWp4MjU5cWtxN3k3Z2RxMHBuYmt6ZGVtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" alt="Magical Intro GIF" width="100"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9lc2Nxb3prZHRxcnJpcWp4MjU5cWtxN3k3Z2RxMHBuYmt6ZGVtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" alt="Magical Intro GIF" width="100"/>
 </p>
-
-
-
