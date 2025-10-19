@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/your-animation.gif" width="800" alt="Cyber Animation" />
+  <img src="assets/header.gif" width="800" alt="Cyber Animation" />
 </p>
 
 
