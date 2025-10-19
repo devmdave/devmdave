@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="assets/your-animation.gif" width="800" alt="Cyber Animation" />
+</p>
+
+
+<p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Magical Intro GIF" width="150"/>
 </p>
 
