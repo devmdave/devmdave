@@ -26,9 +26,51 @@
 
 ## 🌟 About Me
 
-I’m currently pursuing my **B.Tech in Electronics and Communication**, but my passion lies in building elegant digital experiences and automation. Whether it's crafting clean, responsive user websites or automating tasks with python by integerating Arduino, PLCs and Microcontrollers.
+<!-- 💼 About Me Section — Professional & Clean (TokyoNight Style) -->
 
-🧠 Currently learning **Machine Learning** and **Cloud Computing (AWS)** to expand my engineering toolkit.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2800&pause=800&color=00E7FF&center=true&vCenter=true&width=550&lines=👨‍💻+About+Me;Passionate+about+Software+Development%2C+AI+%26+Embedded+Systems;Exploring+the+Intersection+of+Code+and+Vision" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/sq6D7Dk.gif" width="750" height="6" alt="divider"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="180" alt="Developer GIF">
+</p>
+
+<p align="center">
+  <b>Hey there! I'm <span style="color:#00E7FF;">Dev M Dave</span> — a software developer passionate about crafting intelligent systems that connect the digital and physical worlds.</b>
+</p>
+
+<p align="center">
+  With a deep interest in <b>AI, Embedded Systems, and Computer Vision</b>, I love building products that merge logic, emotion, and efficiency into seamless digital experiences.  
+</p>
+
+---
+
+### 🏆 Achievements
+- 🏭 **Built a Fully Functional Deployable Manufacturing Production Analyzer** — An AI-driven system for real-time performance tracking and optimization.  
+- 🥇 **Winner — Internal Hackathon (First Prize)** for innovation and execution excellence.  
+
+---
+
+### 💡 What Drives Me
+> “Technology should not only work — it should *understand*.”  
+
+My journey blends analytical engineering with creative problem-solving, constantly exploring how AI and embedded intelligence can enhance human potential.
+
+---
+
+### 📈 Current Focus
+- Advancing my skills in **VLSI & Embedded AI systems**
+- Exploring **Computer Vision + Edge AI**
+- Building deployable **real-world applications**
+
+<p align="center">
+  <img src="https://i.imgur.com/sq6D7Dk.gif" width="750" height="6" alt="divider"/>
+</p>
 
 ---
 
