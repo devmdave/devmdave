@@ -29,10 +29,6 @@
 <!-- 💼 About Me Section — Professional & Clean (TokyoNight Style) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2800&pause=800&color=00E7FF&center=true&vCenter=true&width=550&lines=👨‍💻+About+Me;Passionate+about+Software+Development%2C+AI+%26+Embedded+Systems;Exploring+the+Intersection+of+Code+and+Vision" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://i.imgur.com/sq6D7Dk.gif" width="750" height="6" alt="divider"/>
 </p>
 
