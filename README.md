@@ -10,14 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00FFF5&center=true&vCenter=true&width=900&lines=Hey+There+👋;I'm+Madhav+Dave+⚡;Hardware+%26+Software+Fusion+Engineer;ML+%7C+Embedded+Systems+%7C+Web+Developer;Welcome+to+My+Digital+Universe" alt="Neon Typing Header" />
 </p>
 
-![Animated Flame Bar](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/dividers/flame-bar.gif)
-
-<h2 align="center">✨ The Alchemy of Code</h2>
-<p align="center">
-  <i>“I don’t just write code—I conjure experiences.”</i><br>
-  <b>Embedded Systems • ML and ComputerVision • Web Developer</b>
-</p>
-
+![Matrix Circuit Flow](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/dividers/matrix-circuit.gif)
 <p align="center">
   <img src="https://img.shields.io/badge/🧠%20Mentor-Student%20Catalyst-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎨%20Designer-Emotionally%20Expressive-orange?style=for-the-badge" />
