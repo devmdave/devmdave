@@ -29,14 +29,6 @@
 <!-- 💼 About Me Section — Professional & Clean (TokyoNight Style) -->
 
 <p align="center">
-  <img src="https://i.imgur.com/sq6D7Dk.gif" width="750" height="6" alt="divider"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="180" alt="Developer GIF">
-</p>
-
-<p align="center">
   <b>Hey there! I'm <span style="color:#00E7FF;">Dev M Dave</span> — a software developer passionate about crafting intelligent systems that connect the digital and physical worlds.</b>
 </p>
 
@@ -60,7 +52,7 @@ My journey blends analytical engineering with creative problem-solving, constant
 ---
 
 ### 📈 Current Focus
-- Advancing my skills in **VLSI & Embedded AI systems**
+- Advancing my skills in *IOT & Embedded AI systems**
 - Exploring **Computer Vision + Edge AI**
 - Building deployable **real-world applications**
 
