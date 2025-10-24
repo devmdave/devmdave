@@ -29,7 +29,7 @@
 <!-- 💼 About Me Section — Professional & Clean (TokyoNight Style) -->
 
 <p align="center">
-  <b>Hey there! I'm <span style="color:#00E7FF;">Dev M Dave</span> — a software developer passionate about crafting intelligent systems that connect the digital and physical worlds.</b>
+  <b>Hey there! I'm <span style="color:#00E7FF;">Madhav Dave</span> — a software developer passionate about crafting intelligent systems that connect the digital and physical worlds.</b>
 </p>
 
 <p align="center">
@@ -55,10 +55,6 @@ My journey blends analytical engineering with creative problem-solving, constant
 - Advancing my skills in *IOT & Embedded AI systems**
 - Exploring **Computer Vision + Edge AI**
 - Building deployable **real-world applications**
-
-<p align="center">
-  <img src="https://i.imgur.com/sq6D7Dk.gif" width="750" height="6" alt="divider"/>
-</p>
 
 ---
 
