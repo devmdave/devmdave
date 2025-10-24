@@ -45,7 +45,7 @@ My journey blends analytical engineering with creative problem-solving, constant
 ---
 
 ### 📈 Current Focus
-- Advancing my skills in *IOT & Embedded AI systems**
+- Advancing my skills in *IOT & Embedded AI systems*
 - Exploring **Computer Vision + Edge AI**
 - Building deployable **real-world applications**
 
