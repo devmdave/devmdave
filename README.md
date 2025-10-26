@@ -22,7 +22,29 @@
   With a deep interest in <b>AI, Embedded Systems, and Computer Vision</b>, I love building products that merge logic, emotion, and efficiency into seamless digital experiences.  
 </p>
 
----
+<svg width="200" height="50">
+  <path
+    class="animated-line"
+    d="M10 20 L190 20"
+    stroke="blue"
+    stroke-width="3"
+    fill="none"
+  />
+</svg>
+
+<style>
+  .animated-line {
+    stroke-dasharray: 180; /* Approximate length of the line */
+    stroke-dashoffset: 180;
+    animation: drawLine 3s forwards;
+  }
+
+  @keyframes drawLine {
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+</style>
 
 ### 🏆 Achievements
 - 🏭 **Built a Fully Functional Deployable Manufacturing Production Analyzer** — An AI-driven system for real-time performance tracking and optimization.  
