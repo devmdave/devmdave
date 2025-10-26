@@ -150,7 +150,10 @@ My journey blends analytical engineering with creative problem-solving, constant
   <img src="https://github-readme-streak-stats.herokuapp.com?user=devmdave&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="devmdave's Streak Stats" width="90%" />
 </p>
 
-![Madhav's GITHUB stats](https://github-readme-stats.vercel.app/api?username=devmdave&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<p align="center">
+  ![Madhav's GITHUB stats](https://github-readme-stats.vercel.app/api?username=devmdave&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmdave&theme=tokyonight" width="90%"/>
