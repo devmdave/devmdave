@@ -157,11 +157,11 @@ My journey blends analytical engineering with creative problem-solving, constant
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmdave&theme=react-dark&hide_border=true&bg_color=0D1117&line=00FFF5&color=00FFF5" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmdave&theme=react-dark&hide_border=true&bg_color=0D1117&line=00FFF5&color=00FFF5" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devmdave&theme=onestar&margin-w=10&row=2&column=4" width="80%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=devmdave&theme=onestar&margin-w=10&row=2&column=4" width="90%"/>
 </p>
 
 ---
@@ -174,7 +174,7 @@ My journey blends analytical engineering with creative problem-solving, constant
 </p>
 
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=devmdave&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="80%"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=devmdave&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="90%"/>
 </p>
 
 
@@ -186,7 +186,7 @@ My journey blends analytical engineering with creative problem-solving, constant
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%">
 </p>
 
 ---
