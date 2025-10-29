@@ -193,7 +193,7 @@ My journey blends analytical engineering with creative problem-solving, constant
   <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1yeGc2cm02b3F4eXJ0MGhicHBhd2FsN212MGR5OWl6bThmZ3Y0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nVJN4PlV00ojrfkovH/giphy.gif" alt="Magical Intro GIF" width="200" height="200" />
 
 
-### 🌍 Connect With Me
+### 🌍 My Networks
 
 <p align="left">
   <a href="https://www.linkedin.com/in/madhav-dave-52b552379/" target="_blank">
