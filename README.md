@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/devmdave.png" alt="Profile Photo" width="200" style="border-radius: 50%;">
+  <img src="https://github.com/devmdave.png" alt="Profile Photo" width="200" style="border-radius: 100%;">
 </p>
 
 
