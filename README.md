@@ -1,44 +1,7 @@
 
-<div align="center" style="
-background: linear-gradient(135deg, rgba(30,30,30,0.8), rgba(80,80,80,0.7));
-  border-radius: 20px;
-  box-shadow: 0 0 20px rgba(255,255,255,0.4), 0 0 40px rgba(59,130,246,0.3);
-  padding: 20px 30px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  font-family: 'Segoe UI', sans-serif;
-  max-width: 750px;
-  margin: 25px auto;
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  border: 1px solid rgba(0,0,0,0.2);
-">
-
-  <img src="https://github.com/devmdave.png" alt="Profile Photo" width="120" height="120" style="
-    border-radius: 50%;
-    border: 3px solid rgba(255,255,255,0.7);
-    margin-right: 25px;
-    box-shadow: 0 0 20px rgba(255,255,255,0.4);
-  "/>
-
-  <div style="text-align: left;">
-    <h2 style="margin: 0 0 10px 0; color: #fff;"><b>Madhav Dave</b> </h2>
-    <p style="margin: 5px 0;">🎓 <b>B.Tech</b> in <b>Electronics and Communication</b></p>
-    <p style="margin: 5px 0;">💻 <b>Embedded Systems</b> | <b>Software Development</b> | <b>Python</b> | <b>Verilog</b></p>
-    <p style="margin: 5px 0;">📫 <a href="mailto:your.email@example.com" style="color:#fff; text-decoration:underline;">your.email@example.com</a></p>
-    <p style="margin: 5px 0;">🌐 <a href="https://your-portfolio-link.com" style="color:#fff; text-decoration:underline;">your-portfolio-link.com</a></p>
-  </div>
-
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-
-
-<!-- ⚡ Fixed: Neon Animated Header for GitHub (Fully Supported) -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00FFF5&center=true&vCenter=true&width=900&lines=Hey+There+👋;I'm+Madhav+Dave+⚡;Hardware+%26+Software+Fusion+Engineer;ML+%7C+Embedded+Systems+%7C+Web+Developer;Welcome+to+My+Digital+Universe" alt="Neon Typing Header" />
-</p>
 
 ## 🌟 About Me
 
