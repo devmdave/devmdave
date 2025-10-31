@@ -1,6 +1,6 @@
 
 
-<<p align="center">
+<p align="center">
   <img src="https://github.com/devmdave.png" alt="Profile Photo" width="200" height="200" style="clip-path: circle(50% at center);" />
 </p>
 
