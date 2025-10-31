@@ -1,6 +1,7 @@
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Magical Intro GIF" width="150"/>
+  <img src="https://github.com/yourusername.png" alt="Profile Photo" width="200" style="border-radius: 50%;">
 </p>
 
 
