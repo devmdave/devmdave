@@ -157,6 +157,8 @@ My journey blends analytical engineering with creative problem-solving, constant
   <img src="https://github-profile-trophy.vercel.app/?username=devmdave&theme=onestar&margin-w=10&row=2&column=4" width="90%"/>
 </p>
 
+[![An image of @devmdave's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devmdave)](https://holopin.io/@devmdave)
+
 ---
 
 ## ⚡ Skill Progress Tracker
