@@ -158,7 +158,6 @@ My journey blends analytical engineering with creative problem-solving, constant
 </p>
 
 [![An image of @devmdave's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devmdave)](https://holopin.io/@devmdave)
-
 ---
 
 ## ⚡ Skill Progress Tracker
