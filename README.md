@@ -18,7 +18,7 @@
 
 
 ### 🏆 Achievements
-- 🏭 **Built a Fully Functional Deployable Manufacturing Production Analyzer** — An AI-driven system for real-time performance tracking and optimization.  
+- 🏭 **Built a Fully Functional Deployable Manufacturing Production Analyzer** — A system for real-time performance tracking and optimization.  
 - 🏆 **1x** Hackathon Champion (Team Eagles)
 
 ---
