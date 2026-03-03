@@ -183,7 +183,7 @@ My journey blends analytical engineering with creative problem-solving, constant
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/devmdave" />
+  <img src="https://ghchart.rshah.org/58a6ff/devmdave" width="90%"/>
 </p>
 
 ---
