@@ -171,10 +171,19 @@ My journey blends analytical engineering with creative problem-solving, constant
 <img src="https://github-contributor-stats.vercel.app/api?username=devmdave&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="90%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devmdave&theme=tokyonight&utcOffset=0" />
+</p>
+
+
 
 ## 🎯 Live Contribution Heatmap
 <p align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/devmdave?chart=3dbar&animation=wave&format=svg&weeks=30&theme=tokyonight&dark=true&gap=0.8&radius=6" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/devmdave" />
 </p>
 
 ---
