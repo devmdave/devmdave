@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=devmdave&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Systems+Architect+%7C+Backend+Engineer+%7C+Embedded+Integrator;Designing+Scalable+Distributed+Systems;Performance-Driven+Production+Engineering" />
+</p>
+
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -229,4 +237,8 @@ My journey blends analytical engineering with creative problem-solving, constant
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9lc2Nxb3prZHRxcnJpcWp4MjU5cWtxN3k3Z2RxMHBuYmt6ZGVtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" alt="Magical Intro GIF" width="100"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9lc2Nxb3prZHRxcnJpcWp4MjU5cWtxN3k3Z2RxMHBuYmt6ZGVtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" alt="Magical Intro GIF" width="100"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer" />
 </p>
