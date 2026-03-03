@@ -172,7 +172,7 @@ My journey blends analytical engineering with creative problem-solving, constant
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devmdave&theme=tokyonight&utcOffset=0" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devmdave&theme=tokyonight&utcOffset=0" width="90%" />
 </p>
 
 
