@@ -16,13 +16,8 @@
 <!-- 💼 About Me Section — Professional & Clean (TokyoNight Style) -->
 
 <p align="center">
-  <b>Hey there! I'm <span style="color:#00E7FF;">Madhav Dave</span> — a software developer passionate about crafting intelligent systems that connect the digital and physical worlds.</b>
+  <b>ECE student passionate about software engineering, embedded systems, and full-stack development. I work with technologies across the stack including Python, JavaScript, React, Node.js, Arduino, and IoT systems, with a strong focus on building scalable applications, automation tools, and hardware-integrated projects. Interested in system architecture, backend engineering, low-level computing, and solving real-world problems through efficient and optimized technology.</b>
 </p>
-
-<p align="center">
-  With a deep interest in <b>AI, Embedded Systems, and Computer Vision</b>, I love building products that merge logic, emotion, and efficiency into seamless digital experiences.  
-</p>
-
 
 
 ### 🏆 Achievements
