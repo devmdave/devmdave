@@ -6,37 +6,44 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Systems+Architect+%7C+Backend+Engineer+%7C+Embedded+Integrator;Designing+Scalable+Distributed+Systems;Performance-Driven+Production+Engineering" />
 </p>
 
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ## 🌟 About Me
 
-<!-- 💼 About Me Section — Professional & Clean (TokyoNight Style) -->
-
 <p align="center">
-  <b>ECE student passionate about software engineering, embedded systems, and full-stack development. I work with technologies across the stack including Python, JavaScript, React, Node.js, Arduino, and IoT systems, with a strong focus on building scalable applications, automation tools, and hardware-integrated projects. Interested in system architecture, backend engineering, low-level computing, and solving real-world problems through efficient and optimized technology.</b>
+  <b>
+ECE undergraduate specializing in software engineering, embedded systems, and scalable application development. Experienced in building full-stack applications, automation systems, and hardware-integrated solutions using technologies including Python, JavaScript, React, Node.js, Arduino, and IoT platforms.
+
+Strong interest in backend engineering, distributed systems, system architecture, and performance-focused development. Passionate about designing reliable, efficient, and production-ready solutions that solve practical real-world challenges through software and intelligent systems integration.
+  </b>
 </p>
 
+---
 
 ### 🏆 Achievements
-- 🏭 **Built a Fully Functional Deployable Manufacturing Production Analyzer** — A system for real-time performance tracking and optimization.  
-- 🏆 **1x** Hackathon Champion (Team Eagles)
+
+- 🏭 Developed a deployable Manufacturing Production Analyzer for real-time monitoring, analytics, and operational optimization.  
+- 🏆 Hackathon Champion — Team Eagles  
+- ⚙️ Built multiple full-stack and embedded projects integrating software with real-world hardware systems  
 
 ---
 
 ### 💡 What Drives Me
-> “Technology should not only work — it should *understand*.”  
 
-My journey blends analytical engineering with creative problem-solving, constantly exploring how AI and embedded intelligence can enhance human potential.
+> “Technology delivers the greatest impact when engineering, usability, and intelligence work together.”
+
+I focus on building systems that are practical, scalable, and efficient — combining analytical problem-solving with modern software engineering principles. My interests span backend systems, embedded computing, intelligent automation, and AI-powered applications that create measurable value.
 
 ---
 
 ### 📈 Current Focus
-- Advancing my skills in *IOT & Embedded AI systems*
-- Exploring **Computer Vision + Edge AI**
-- Building deployable **real-world applications**
+
+- Building scalable backend and automation systems
+- Exploring Embedded AI, Edge Computing, and Computer Vision
+- Developing production-ready full-stack applications
+- Improving system design and low-level engineering expertise
 
 ---
 
@@ -90,6 +97,7 @@ My journey blends analytical engineering with creative problem-solving, constant
       <img src="https://img.shields.io/badge/ESP32-323232?style=flat" />
     </td>
   </tr>
+
   <tr>
     <th align="left">🚀 Deployment</th>
   </tr>
@@ -122,7 +130,7 @@ My journey blends analytical engineering with creative problem-solving, constant
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
- <img src="https://img.shields.io/badge/Ultralytics-YOLOv8-purple?style=flat" />
+      <img src="https://img.shields.io/badge/Ultralytics-YOLOv8-purple?style=flat" />
       <img src="https://img.shields.io/badge/OpenCV-ComputerVision-yellow?style=flat" />
       <img src="https://img.shields.io/badge/Data Analytics-Pandas and Numpy-blueviolet?style=flat" />
     </td>
@@ -130,18 +138,17 @@ My journey blends analytical engineering with creative problem-solving, constant
 </table>
 
 ---
-## 🪄 Projects That Whisper
 
-> _“Some tools solve problems. Mine tell stories.”_
+## 🚀 Featured Projects
 
-- **Sonique** — A realtime music player that syncs hearts through sound.
-- **Production Analyser** — Industrial dashboards that speak the language of rhythm.
-- **LoveLens** — A poetic experiment in emotional storytelling through UI.
+- **Sonique** — A real-time music platform focused on synchronized playback and interactive user experience.
+- **Production Analyzer** — An industrial analytics dashboard designed for manufacturing performance tracking and operational insights.
+- **LoveLens** — A UI/UX-focused experimental application exploring emotional interaction through design and storytelling.
 
 ---
+
 ## 📊 My GitHub Stats
 
-<!-- ⚡ 24/7 GitHub Streak Stats (Tokyonight Theme) -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=devmdave&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="devmdave's Streak Stats" width="90%" />
 </p>
@@ -161,26 +168,27 @@ My journey blends analytical engineering with creative problem-solving, constant
 </p>
 
 [![An image of @devmdave's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devmdave)](https://holopin.io/@devmdave)
+
 ---
 
 ## ⚡ Skill Progress Tracker
 
-<!-- 💻 Most Used Languages (Tokyonight Theme) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdave&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&card_width=400" alt="Top Languages by devmdave" width="90%" />
 </p>
 
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=devmdave&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="90%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=devmdave&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="90%"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devmdave&theme=tokyonight&utcOffset=0" width="90%" />
 </p>
 
-
+---
 
 ## 🎯 Live Contribution Heatmap
+
 <p align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/devmdave?chart=3dbar&animation=wave&format=svg&weeks=30&theme=tokyonight&dark=true&gap=0.8&radius=6" width="90%" />
 </p>
@@ -196,8 +204,8 @@ My journey blends analytical engineering with creative problem-solving, constant
 </p>
 
 ---
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1yeGc2cm02b3F4eXJ0MGhicHBhd2FsN212MGR5OWl6bThmZ3Y0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nVJN4PlV00ojrfkovH/giphy.gif" alt="Magical Intro GIF" width="200" height="200" />
 
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1yeGc2cm02b3F4eXJ0MGhicHBhd2FsN212MGR5OWl6bThmZ3Y0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nVJN4PlV00ojrfkovH/giphy.gif" alt="Magical Intro GIF" width="200" height="200" />
 
 ### 🌍 My Networks
 
@@ -205,30 +213,35 @@ My journey blends analytical engineering with creative problem-solving, constant
   <a href="https://www.linkedin.com/in/madhav-dave-52b552379/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  
+
   <a href="https://devmdave.github.io/my-portfolio" target="_blank">
 <br>
     <img src="https://img.shields.io/badge/my   portfolio-Explore-black?style=for-the-badge&logo=nothing" />
   </a>
-<br>  
+
+<br>
+
   <a href="https://stackoverflow.com/users/23113631/madhav-dave" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-VISIT-orange?style=for-the-badge&logo=stackoverflow" />
   </a>
+
 <br>
+
   <a href="mailto:davemadhav2007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/my    email-Email me-crimson?style=for-the-badge&logo=gmail" />
   </a>
-
 </p>
 
 ---
+
 <p align="center">
-  <i>“Every function I write is a constellation. Every bug I fix, a star realigned.”</i><br>
-  <b>I build galaxies of logic, stitched together by empathy and precision.</b>
+  <i>Focused on building scalable software, intelligent systems, and impactful technology solutions.</i><br>
+  <b>Driven by engineering precision, continuous learning, and real-world problem solving.</b>
 </p>
 
-<div >
+<div>
 </div>
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9lc2Nxb3prZHRxcnJpcWp4MjU5cWtxN3k3Z2RxMHBuYmt6ZGVtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" alt="Magical Intro GIF" width="100"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9lc2Nxb3prZHRxcnJpcWp4MjU5cWtxN3k3Z2RxMHBuYmt6ZGVtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" alt="Magical Intro GIF" width="100"/>
